@@ -73,6 +73,12 @@ body {
     }
     .content {
         order: 2;
+        /*width: 50%;*/
     }
+    /*.header {
+        order: 2;
+        /*width: 50%;
+        height: auto;*/
+    }*/
 
 }
