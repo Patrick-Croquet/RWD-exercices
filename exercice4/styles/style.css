@@ -45,7 +45,7 @@ body {
 .feature-3 {
     background-color: rgb(200, 198, 250);
 }
-
+/* Tablet Styles */
 @media only screen and (min-width: 401px) and (max-width: 960px) {
     body {
         background-color: rgb(247, 247, 119);
@@ -57,7 +57,7 @@ body {
         width: 50%;
     }
 }
-
+/* Desktop Styles */
 @media only screen and (min-width: 961px) {
     body {
         background-color: rgb(150, 150, 238);
